@@ -9,6 +9,10 @@
   }
 }
 
+.headerLink a:hover {
+    background-color: white;
+}
+
 .d-header {
   &.hide-menus {
     .headerLink:not(.keep) {
